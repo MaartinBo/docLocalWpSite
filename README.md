@@ -16,11 +16,11 @@ Before you begin, ensure that you have the following prerequisites installed on 
 
 Or if you already have your own wordpress site go to:
 
-### [Setting Up WooCommerce](#setting-up-woocommerce)
+[Setting Up WooCommerce - section](#setting-up-woocommerce)
 
-### [Creating WooCommerce API Keys](#creating-woocommerce-api-keys)
+[Creating WooCommerce API Keys - section](#creating-woocommerce-api-keys)
 
-### [How To Add Sample Products](#How-to-add-sample-products)
+[How To Add Sample Products - section](#how-to-add-sample-products)
 
 
 ## Method 1: LocalWP
