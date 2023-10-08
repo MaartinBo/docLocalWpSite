@@ -91,9 +91,9 @@ services:
 
 5. Run the following command to start the Docker containers: docker-compose up -d
 
-6.Once the containers are up and running, open your web browser and navigate to http://localhost:8080.
+6. Once the containers are up and running, open your web browser and navigate to http://localhost:8080.
 
-7.Follow the on-screen instructions to complete the WordPress installation, including creating an admin account and site title.
+7. Follow the on-screen instructions to complete the WordPress installation, including creating an admin account and site title.
 
 
 ### Setting Up WooCommerce
@@ -128,4 +128,4 @@ services:
 
 ### How To Add Sample Products
 
- To add sample products to your site, you can follow the instructions on the [official WooCommerce website](https://woocommerce.com/document/importing-woocommerce-sample-data/).
+To add sample products to your site, you can follow the instructions on the [official WooCommerce website](https://woocommerce.com/document/importing-woocommerce-sample-data/).
