@@ -37,6 +37,8 @@ Or if you already have your own wordpress site go to:
 
 6. Access your WordPress site by clicking the "View Site" button within LocalWP.
 
+7. Follow the on-screen instructions to complete the WordPress installation, including creating an admin account and site title.
+
 ## Method 2: MAMP
 
 1. Download and install MAMP from the [official website](https://www.mamp.info/).
@@ -104,7 +106,7 @@ services:
 
 4. Activate WooCommerce.
 
-5. Follow the WooCommerce setup wizard to configure your online store, including payment gateways, shipping options, and product settings.
+5. Follow the WooCommerce setup wizard to configure your online store, including payment gateways, shipping options, and product settings. Most of them are not required; you don't need to fill them out, so you can just skip the whole thing and go to the next section. I only recommend one thing, which is choosing some shipping option; without it, you won't be able to make an order.
 
 ### Creating WooCommerce API Keys
 
@@ -126,4 +128,4 @@ services:
 
 ### How To Add Sample Products
 
- If you want to add sample data to your WooCommerce site, you can follow the instructions on the [official WooCommerce website](https://woocommerce.com/document/importing-woocommerce-sample-data/).
+ To add sample products to your site, you can follow the instructions on the [official WooCommerce website](https://woocommerce.com/document/importing-woocommerce-sample-data/).
